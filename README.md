@@ -23,7 +23,8 @@ Cheat money isn't counted as income, so the end-of-day report stays accurate.
 1. Install the **UE4SS experimental build** (it supports Unreal Engine 5.6): download
    `UE4SS_v3.0.1-…zip` from the [experimental-latest release](https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/experimental-latest)
    and extract it into `PC Cafe Simulator\PCCafeSimulator\Binaries\Win64`.
-2. Extract `PCCafeModMenu-v1.0.zip` into the same `Binaries\Win64` folder. It adds`n   `ue4ss\Mods\PCCafeModMenu` (its `enabled.txt` tells UE4SS to load it).
+2. Extract `PCCafeModMenu-v1.0.zip` into the same `Binaries\Win64` folder. It adds
+   `ue4ss\Mods\PCCafeModMenu` (its `enabled.txt` tells UE4SS to load it).
 3. Start the game, load a save and press **Insert**.
 
 To change the key, edit `MENU_KEY` and `INSERT` near the top and in the loop section of `Scripts\main.lua`.
